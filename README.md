@@ -1,4 +1,4 @@
-# week-1
+# week-1-setup
 My first week repository
 <br>
 Author: Abdul Haq Mughal
